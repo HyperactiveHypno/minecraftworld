@@ -1,4 +1,16 @@
 {
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-10-26 19:35:00 +0530"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-26 19:43:50 +0530"
+    },
+    "done": true
+  },
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-10-26 19:46:03 +0530"
@@ -20,18 +32,6 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-10-26 20:05:18 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-10-26 19:35:00 +0530"
-    },
-    "done": false
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-10-26 19:43:50 +0530"
     },
     "done": true
   },
