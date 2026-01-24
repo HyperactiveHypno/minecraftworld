@@ -8,6 +8,7 @@
       "quark:glimmering_weald": "2025-11-23 16:06:30 +0530",
       "minecraft:cherry_grove": "2025-10-12 20:11:02 +0530",
       "minecraft:birch_forest": "2025-11-08 18:05:34 +0530",
+      "minecraft:beach": "2026-01-08 14:50:31 +0530",
       "minecraft:river": "2025-10-26 20:10:01 +0530",
       "minecraft:stony_shore": "2025-10-26 12:19:16 +0530",
       "minecraft:snowy_plains": "2025-11-09 16:00:30 +0530",
@@ -18,6 +19,7 @@
       "minecraft:forest": "2025-10-12 20:08:36 +0530",
       "minecraft:deep_cold_ocean": "2025-12-31 18:50:22 +0530",
       "minecraft:ice_spikes": "2025-10-13 20:04:57 +0530",
+      "minecraft:ocean": "2026-01-08 14:50:27 +0530",
       "minecraft:old_growth_spruce_taiga": "2025-11-08 17:57:07 +0530",
       "minecraft:frozen_peaks": "2025-10-29 20:10:33 +0530",
       "minecraft:deep_dark": "2025-10-19 10:53:41 +0530",
@@ -283,6 +285,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-01-04 16:11:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-01-04 16:13:01 +0530"
@@ -295,24 +303,19 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-01-04 16:13:01 +0530",
+      "minecraft:warped_forest": "2026-01-04 16:36:01 +0530",
+      "minecraft:basalt_deltas": "2026-01-04 21:35:53 +0530"
+    },
+    "done": false
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2026-01-04 16:27:51 +0530"
     },
     "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2026-01-04 16:11:42 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2026-01-04 16:13:01 +0530",
-      "minecraft:warped_forest": "2026-01-04 16:36:01 +0530"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
